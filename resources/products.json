@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "CPU COMPLETO",
+      "description": "Trae mouse-teclado de regalo",
+      "code": 1111,
+      "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/257/455/products/52613_8001-8ba4f279e39b7cdd6416525680659333-640-0.jpg",
+      "price": 50000,
+      "stock": 100
+    },
+    {
+      "id": 3,
+      "name": "Monitor",
+      "description": "144HZ",
+      "code": 1113,
+      "url": "https://http2.mlstatic.com/D_NQ_NP_901254-MLA52111700674_102022-W.jpg",
+      "price": 25000,
+      "stock": 100
+    }
+  ]
